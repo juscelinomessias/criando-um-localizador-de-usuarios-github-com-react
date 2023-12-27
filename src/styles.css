@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "Mona Sans";
+    src: url(../../gitfind/src/assets/fonts/Mona-Sans.ttf);
+}
+
+body {
+    background-color: #1d2128;
+    font-family: "Mona Sans";
+}
+
+hr {
+    background-color: rgba(229, 229, 229, 0.2);
+    border: 1px solid rgba(229, 229, 229, 0.2);
+}
